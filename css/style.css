@@ -32,10 +32,12 @@ color: #4a4a4f;
     float: left;
     width:20;
     margin-left: 10%;
+    text-align: center;
 }
-.card a {text-align: center;
+
+img {width: 100px;
+    height: 100px;
 }
-img {width: 100%;}
 
 h1 {text-align: center}
 
